@@ -35,3 +35,6 @@ pip3 install pillow
 
 #Para rodar o servidor
 python run_raw.py
+
+#Biblioteca para tratar os erros
+pip3 install Cerberus
